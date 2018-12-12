@@ -1,2 +1,2 @@
-# urna-eletronica
-Aplicação desenvolvida em Java para a disciplina de Programação Orientada a Objetos.
+# Urna Eletrônica
+Para entender o funcionamento acesse Documentação.pdf
