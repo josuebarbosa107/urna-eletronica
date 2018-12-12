@@ -1,2 +1,2 @@
-# urna-eletronica
-O presente trabalho consiste em implementar um sistema de urna eletrônica para simular uma eleição municipal (Vereador e prefeito) implementando as funcionalidades semelhantes a Urna eletrônica utilizada no Brasil. Para o desenvolvimento do mesmo foi utilizada programação orientada a objetos, separando o programa em módulos com classes e pacotes bem definidos. Foi desenvolvido também uma interface gráfica para possibilitar e facilitar a interação com o usuário.
+# Urna Eletrônica
+Para entender o funcionamento acesse Documentação.pdf
