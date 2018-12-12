@@ -1,0 +1,19 @@
+﻿Otto|23|PPS|Prefeito|Imagens\Prefeito\Otto.jpg
+Adônis|51|PEN|Prefeito|Imagens\Prefeito\Adônis.jpg
+Valéria|15|PMDB|Prefeito|Imagens\Prefeito\Valeria.jpg
+Célia|22|PR|Prefeito|Imagens\Prefeito\Célia.jpg
+Caito Andrade|55|PSD|Prefeito|Imagens\Prefeito\Caito.jpg
+Cabo Pedro|10|PRB|Prefeito|Imagens\Prefeito\CaboPedro.jpg
+Ted|15015|PMDB|Vereador|Imagens\Vereadores\TED.jpg
+Jurandir Santos|11123|PP|Vereador|Imagens\Vereadores\Jurandir.jpg
+Avelar|23456|PPS|Vereador|Imagens\Vereadores\Avelar.jpg
+Léo da Padaria|23023|PPS|Vereador|Imagens\Vereadores\LeoDaPadaria.jpg
+Mário Teixeira|11011|PP|Vereador|Imagens\Vereadores\MarioTeixeira.jpg
+Alex do Cidinho|12012|PDT|Vereador|Imagens\Vereadores\AlexCidinho.jpg
+Dr. Jorge|36505|PTC|Vereador|Imagens\Vereadores\Dr. Jorge.jpg
+Wellington Pinheiro|51456|PEN|Vereador|Imagens\Vereadores\Wellington.jpg
+Cosme|12345|PDT|Vereador|Imagens\Vereadores\Cosme.jpg
+Eltinho da Agência|51051|PEN|Vereador|Imagens\Vereadores\Eltinho.jpg
+Fátima|15963|PMDB|Vereador|Imagens\Vereadores\Fátima.jpg
+Galego|11666|PP|Vereador|Imagens\Vereadores\Galego.jpg
+Messias|23123|PPS|Vereador|Imagens\Vereadores\Messias.jpg
